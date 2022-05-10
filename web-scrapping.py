@@ -45,7 +45,7 @@ for k,v in alldata.items():
     write_to_csv(data)
 
 
-df = pd.read_csv('data-temperature-2022-05-08.csv')
+
         
 
 
